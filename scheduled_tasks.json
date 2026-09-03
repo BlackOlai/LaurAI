@@ -1,0 +1,18 @@
+[
+  {
+    "contact": "whatsapp",
+    "message": "mande um",
+    "time": "22:58",
+    "date": "2026-05-08",
+    "status": "pending",
+    "type": "whatsapp"
+  },
+  {
+    "contact": "Joana",
+    "message": "Mande um whatsapp",
+    "time": "18:38",
+    "date": "2026-05-10",
+    "status": "pending",
+    "type": "whatsapp"
+  }
+]
